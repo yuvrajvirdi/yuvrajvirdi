@@ -4,7 +4,7 @@ I'm currently in my first year studying computer science at [Western University]
 
 [![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My Interests
+
 
 
 
