@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuvraj. 
 
-## I'm currently in my first year studying computer science at [Western University](https://www.uwo.ca)
+I'm currently in my first year studying computer science at [Western University](https://www.uwo.ca)
 
 
 
