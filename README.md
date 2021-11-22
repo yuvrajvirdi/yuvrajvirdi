@@ -4,7 +4,7 @@ I'm currently in my first year studying computer science at [Western University]
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
