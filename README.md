@@ -4,6 +4,7 @@ I'm in my first year studying computer science at [Western University](https://w
 
 I'm currently seeking an internship for the summer of 2022.
 
+- &nbsp
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
