@@ -2,8 +2,6 @@
 
 I'm in my first year studying computer science at [Western University](https://www.uwo.ca).
 
-🔭 I'm currently seeking an internship for the summer of 2022.
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuvrajvirdi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
