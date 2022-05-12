@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuvraj. 
 
-I'm in my first year studying computer science at [Western University](https://www.uwo.ca).
+I'm going into my second year of computer science at [Western University](https://www.uwo.ca).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajvirdi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
