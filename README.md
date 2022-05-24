@@ -1,10 +1,20 @@
 ### Hi there 👋, I'm Yuvraj. 
 
-I'm going into my second year of computer science at [Western University](https://www.uwo.ca).
+I'm going into my second year of computer science at [Western University](https://www.uwo.ca). 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuvrajvirdi&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+I'm interested in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=dracula&langs_count=6&hide=html,css&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+* Full-Stack Development
+* ML
+* DS & A
+
+I'm currently learning and working on:
+
+* Mobile Development
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuvrajvirdi&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=holi-theme&langs_count=6&hide=html,css&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yuvrajvirdi/yuvrajvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
