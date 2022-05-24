@@ -17,10 +17,16 @@ I'm currently learning and working on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=react&langs_count=6&hide=html,css&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages
+### Skills
+
+#### Langauges
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://shields.io/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://shields.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://shields.io/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://shields.io/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://shields.io/)
 
 <!--
 **yuvrajvirdi/yuvrajvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
