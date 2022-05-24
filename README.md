@@ -17,7 +17,7 @@ I'm currently learning and working on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=react&langs_count=6&hide=html,css&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Languages
+### Languages
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://shields.io/)
@@ -26,7 +26,7 @@ I'm currently learning and working on:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://shields.io/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://shields.io/)
 
-#### Tools & Frameworks
+### Tools & Frameworks
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://shields.io/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://shields.io/)
@@ -38,6 +38,12 @@ I'm currently learning and working on:
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://shields.io/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://shields.io/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://shields.io/)
+
+### Other
+[![Email](https://img.shields.io/badge/yuvraj.virdi@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://shields.io/)
+[![LinkedIn](https://img.shields.io/badge/Yuvraj Virdi?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
+[![](https://img.shields.io/badge/yuvrajvirdi?style=for-the-badge&logo=LeetCode&logoColor=black)](https://shields.io/)
+
 
 <!--
 **yuvrajvirdi/yuvrajvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
