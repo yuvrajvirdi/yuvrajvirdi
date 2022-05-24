@@ -7,6 +7,7 @@ I'm interested in:
 * Full-Stack Development
 * ML
 * DS & A
+* RESTful Services
 
 I'm currently learning and working on:
 
