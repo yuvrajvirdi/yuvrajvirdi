@@ -40,9 +40,9 @@ I'm currently learning and working on:
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://shields.io/)
 
 ### Other
-[![Email](https://img.shields.io/badge/yuvraj.virdi@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://shields.io/)
-[![LinkedIn](https://img.shields.io/badge/yuvraj%20virdi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
-[![LeetCode](https://img.shields.io/badge/-yuvrajvirdi-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://shields.io/)
+[![Email](https://img.shields.io/badge/yuvraj.virdi@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](yuvraj.virdi@live.com)
+[![LinkedIn](https://img.shields.io/badge/yuvraj%20virdi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajvirdi/)
+[![LeetCode](https://img.shields.io/badge/-yuvrajvirdi-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yuvrajvirdi/)
 
 
 <!--
