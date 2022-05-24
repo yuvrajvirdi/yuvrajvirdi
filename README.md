@@ -41,8 +41,8 @@ I'm currently learning and working on:
 
 ### Other
 [![Email](https://img.shields.io/badge/yuvraj.virdi@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://shields.io/)
-[![LinkedIn](https://img.shields.io/badge/Yuvraj Virdi?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
-[![](https://img.shields.io/badge/yuvrajvirdi?style=for-the-badge&logo=LeetCode&logoColor=black)](https://shields.io/)
+[![LinkedIn](https://img.shields.io/badge/yuvraj%20virdi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
+[![LeetCode](https://img.shields.io/badge/-yuvrajvirdi-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://shields.io/)
 
 
 <!--
