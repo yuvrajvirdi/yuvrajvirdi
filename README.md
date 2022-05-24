@@ -17,8 +17,6 @@ I'm currently learning and working on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=react&langs_count=6&hide=html,css&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
-### Skills
-
 #### Languages
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
@@ -33,12 +31,13 @@ I'm currently learning and working on:
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://shields.io/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://shields.io/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://shields.io/)
-[![]()](https://shields.io/)
-[![]()](https://shields.io/)
-[![]()](https://shields.io/)
-[![]()](https://shields.io/)
-[![]()](https://shields.io/)
-[![]()](https://shields.io/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://shields.io/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://shields.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://shields.io/)
+[![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://shields.io/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://shields.io/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://shields.io/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://shields.io/)
 
 <!--
 **yuvrajvirdi/yuvrajvirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
