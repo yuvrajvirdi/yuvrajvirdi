@@ -39,6 +39,8 @@ I'm currently learning and working on:
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://shields.io/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://shields.io/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://shields.io/)
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://shields.io/)
+[![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://shields.io/)
 
 ### Other
 [![Email](https://img.shields.io/badge/yuvraj.virdi@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](yuvraj.virdi@live.com)
