@@ -1,6 +1,6 @@
 ### Hi, I'm Yuvraj. 
 
-I'm going into my second year of computer science at [Western University](https://www.uwo.ca). 
+I'm in my second year of computer science at [Western University](https://www.uwo.ca). 
 
 I'm interested in:
 
