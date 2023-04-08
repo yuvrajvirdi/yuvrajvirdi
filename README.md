@@ -2,21 +2,6 @@
 
 I'm in my second year of computer science at [Western University](https://www.uwo.ca). 
 
-I'm interested in:
-
-* Full-Stack Development
-* ML
-* DS & A
-* RESTful Services
-
-I'm currently learning and working on:
-
-* Mobile Development
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuvrajvirdi&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&layout=compact&theme=react&langs_count=6&hide=html,css&card_width=450&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
