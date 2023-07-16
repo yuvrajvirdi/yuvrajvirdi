@@ -1,6 +1,6 @@
 ### Hi, I'm Yuvraj. 
 
-I'm in my second year of computer science at [Western University](https://www.uwo.ca). 
+SWE Intern at Chatbase, and Co-founder at Notespace.ai. I'm also in my third year of computer science at [Western University](https://www.uwo.ca). 
 
 ### Languages
 
