@@ -12,7 +12,7 @@ SWE Intern at Chatbase, and Co-founder at Notespace.ai. I'm also in my third yea
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://shields.io/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://shields.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi)](https://github.com/anuraghazra/github-readme-stats&hide=css,html&langs_count=8&layout=compact&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 ### Tools & Frameworks
 
