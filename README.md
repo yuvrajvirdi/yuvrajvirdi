@@ -12,7 +12,7 @@ SWE Intern at EcoOnline. I'm in my third year of computer science at [Western Un
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://shields.io/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://shields.io/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&hide=html,css&theme=dracula&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajvirdi&hide=html,css&theme=dracula&layout=compact&langs_count=8&hide=jupyter+notebook)
 
 ### Tools & Frameworks
 
