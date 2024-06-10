@@ -1,6 +1,6 @@
 ### Hi, I'm Yuvraj. 
 
-SWE Intern at EcoOnline. I'm in my third year of computer science at [Western University](https://www.uwo.ca). 
+SWE Intern at Environment Canada. I'm in my third year of computer science at [Western University](https://www.uwo.ca). 
 
 ### Languages
 
